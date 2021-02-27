@@ -1,6 +1,6 @@
 first_name,age,location
 joshua,21, "usa"
-jeffrey,23,canada
-john,20,china
-april,23,japan\r
+jeffrey,23,canada\r
+john,20
+april,23,japan
 maggie,21,england
